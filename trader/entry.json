@@ -4,7 +4,7 @@
   "setup": "orb",
   "side": "buy",
   "date": "2026-11-18",
-  "status": "waiting",
+  "status": "expired",
   "time": null,
   "bar_start": null,
   "bar_index": null,
@@ -17,6 +17,6 @@
     "minutes": 15
   },
   "source": "yahoo",
-  "checked_at": "2026-11-18T19:59:36Z",
-  "reason": "last close $150.69 (14:50 bar), $9.01 under the range high $159.70 (-5.64%)"
+  "checked_at": "2026-11-18T20:32:11Z",
+  "reason": "no close above the range high $159.70 by 15:30, the last time for a new entry"
 }
